@@ -1,0 +1,3 @@
+# Assignments
+
+I've gitignored this to privatize code

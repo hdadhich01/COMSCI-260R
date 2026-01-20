@@ -1,3 +1,6 @@
 [submodule ".obsidian"]
 	path = .obsidian
 	url = git@github.com:hdadhich01/.obsidian.git
+[submodule "cs260r-assignment-2026winter"]
+	path = cs260r-assignment-2026winter
+	url = https://github.com/ucla-rlcourse/cs260r-assignment-2026winter.git
